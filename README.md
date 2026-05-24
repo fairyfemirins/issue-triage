@@ -18,10 +18,15 @@ Open-source maintainers and developers often struggle with managing and triaging
 - **Detect Duplicates**: Identify potential duplicate issues using title similarity.
 - **Dry-Run Mode**: Test the tool without making changes to GitHub.
 
+## Note
+This repository was published under `fairyfemirins` due to GitHub namespace restrictions. A transfer to `femirins` is pending.
+
+To request a transfer, open an issue in this repository or contact `@femirins` on GitHub.
+
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/femirins/issue-triage.git
+   git clone https://github.com/fairyfemirins/issue-triage.git
    cd issue-triage
    ```
 
